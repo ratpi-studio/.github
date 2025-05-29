@@ -12,6 +12,7 @@ Notre objectif : donner vie Ã  des projets originaux, fun et porteurs de sens, Ã
 - TypeScript / React / React Native
 - Phaser 3
 - Unity (C#)
+- Godot
 - Node.js / Express / Nx / TurboRepo
 - GitHub Actions / AWS CodeArtifact / ESLint / Prettier
 
