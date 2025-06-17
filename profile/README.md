@@ -1,47 +1,54 @@
 # Ratpi Studio
 
-🎮 **Ratpi Studio** est une association indépendante de création de jeux vidéo et d’outils créatifs.  
-Notre objectif : donner vie à des projets originaux, fun et porteurs de sens, à travers une approche artisanale, ouverte et inclusive.
+🎮 **Ratpi Studio** is an independent non-profit focused on creating original video games and creative tools.
+Our goal: bring to life fun and meaningful projects through a hands-on, open, and inclusive approach.
+We believe everyone should have access to quality creative tools and games — that’s why we’re committed to providing **free and open alternatives** to expensive, inaccessible software. Everything we build is, and always will be, **free for everyone**.
 
-🌐 Site officiel : [ratpi-studio.fr](https://ratpi-studio.fr)
-
----
-
-## 🛠️ Technologies
-
-- TypeScript / React / React Native
-- Phaser 3
-- Unity (C#)
-- Godot
-- Node.js / Express / Nx / TurboRepo
-- GitHub Actions / AWS CodeArtifact / ESLint / Prettier
+🌐 Official website: [ratpi-studio.fr](https://ratpi-studio.fr)
 
 ---
 
-## 🤝 Rejoindre l’aventure
+## 🛠️ Tech Stack
 
-Nous sommes toujours ouverts aux collaborations bénévoles, aux testeurs, artistes, développeurs ou curieux.  
-Si tu veux contribuer ou simplement échanger, tu peux :
-
-- Visiter [ratpi-studio.fr](https://ratpi-studio.fr)
-- Créer une issue ou une discussion sur l’un de nos repos
-
----
-
-## 🧠 Notre philosophie
-
-- **Créativité avant tout** : on prototype, on teste, on apprend.
-- **Indépendance et entraide** : une structure associative qui place l’humain au cœur des projets.
-- **Accessibilité** : nos projets sont pensés pour être jouables et utiles au plus grand nombre.
+* TypeScript / React / React Native
+* Phaser 3
+* Unity (C#)
+* Godot
+* Node.js / Express / Nx / TurboRepo
+* GitHub Actions / AWS CodeArtifact / ESLint / Prettier
 
 ---
 
-## 📂 Structure du GitHub
+## 🚀 Current Projects
+
+* **[Flowbit](https://flowbit.ratpi-studio.fr)**: An ADHD-friendly habit tracker app for iOS/Android, focused on sustainable routines, smart reminders, and personal growth.
+* **Nodeclair**: A visual mindmapping tool to organize ideas, supporting collaborative editing and keyboard shortcuts.
+
+See all repositories and WIP projects on our [GitHub organization](https://github.com/ratpi-studio).
 
 ---
 
-## 💬 Contacts
+## 🤝 Join Us
 
-📧 contact@ratpi-studio.fr  
+We’re always open to volunteers, testers, artists, developers, and anyone curious to get involved.
+Want to contribute or just chat? Here’s how:
+
+* Visit [ratpi-studio.fr](https://ratpi-studio.fr)
+* Create an issue or discussion on any of our repositories
+
+---
+
+## 🧠 Philosophy
+
+* **Creativity first**: We prototype, test, and learn together.
+* **Independence and mutual support**: Our non-profit puts people at the center of every project.
+* **Accessibility and openness**: Everything we make is designed to be playable and useful for as many people as possible — and **always free**.
+  We actively fight against overpriced, closed tools by offering genuinely free, open alternatives for everyone.
+
+---
+
+## 💬 Contact
+
+📧 [contact@ratpi-studio.fr](mailto:contact@ratpi-studio.fr)
 🐭 [ratpi-studio.fr](https://ratpi-studio.fr)
 
